@@ -15,7 +15,4 @@ import io.cucumber.testng.CucumberOptions;
 public class RunCukeRegression extends AbstractTestNGCucumberTests {
 
 
-    public static void main(String[] args) {
-
-    }
 }
